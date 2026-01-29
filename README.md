@@ -9,10 +9,10 @@ This project was completed as part of a DataCamp certification.
 To analyze whether the length of stay in a foreign country impacts the mental health of international students. The study focused on depression (PHQ-9), social connectedness (SCS), and acculturative stress (ASISS).
 
 ## 📂 Files in this Repository
-* `notebook.ipynb`: The SQL code containing the analysis.
-* `result_image.png`: A snapshot of the query results.
-* `Students.csv` : Raw data source.
-* `mentalhealth.jpg`: Cover picture of the project.
+* `notebook.ipynb`: The SQL code containing the analysis
+* `result_image.png`: A snapshot of the query results
+* `Students.csv` : Raw data source
+* `mentalhealth.jpg`: Cover picture of the project
 
 ## Description of the columns of "students.csv" you may find helpful:
 
@@ -56,6 +56,7 @@ WHERE inter_dom = 'Inter'
 GROUP BY stay
 ORDER BY stay DESC;
 ```
+
 
 ## 📈 Results
 The analysis reveals how mental health metrics fluctuate for international students depending on their duration of stay. The SQL query returned the following aggregated data:
