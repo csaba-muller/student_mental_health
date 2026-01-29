@@ -64,9 +64,9 @@ The analysis reveals how mental health metrics fluctuate for international stude
 ![Query Result](result_image.png)
 
 
-## 📈 Conclusions
+## Conclusions
 Confirmed that international students face higher risks of mental health difficulties linked to social connectedness.
 
-## 📈 Crucial Insight
+## Crucial Insight
 Upon analyzing the "stay", I identified a sample size issue with durations exceeding 5 years.
 I concluded that only the 1-4 year range provides statistically significant data, as the low sample count for other durations would distort the correlation analysis regarding depression scores.
