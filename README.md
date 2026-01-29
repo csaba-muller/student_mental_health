@@ -14,7 +14,7 @@ To analyze whether the length of stay in a foreign country impacts the mental he
 * `Students.csv` : Raw data source.
 * `mentalhealth.jpg`: Cover picture of the project.
 
-## Description of the columns of `Students.csv` you may find helpful:
+## Description of the columns of "students.csv" you may find helpful:
 
 | Field Name    | Description                                      |
 | ------------- | ------------------------------------------------ |
@@ -55,6 +55,7 @@ FROM students
 WHERE inter_dom = 'Inter'
 GROUP BY stay
 ORDER BY stay DESC;
+```
 
 ## 📈 Results
 The analysis reveals how mental health metrics fluctuate for international students depending on their duration of stay. The SQL query returned the following aggregated data:
