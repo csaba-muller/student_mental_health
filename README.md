@@ -1,3 +1,5 @@
+![Cover](mentalhealth.jpg)
+
 # 🎓 Analyzing Students' Mental Health (SQL Project)
 
 ## 📌 Project Overview
